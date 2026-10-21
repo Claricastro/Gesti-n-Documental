@@ -1,6 +1,6 @@
 # Gestión Documental
 ##  Propósito  Proyecto: Ruta Joven San Gabriel — Orientación para la Empleabilidad y el Emprendimiento
-## Alacance
+## Alcance el proyecto comprende la planeación, organización y ejecución simulada  de un servicio piloto de orientacion juvenil. estructurado
 ## Equipo y responsabilidades
 - Verónica Arias Mancera: Coordinadora general
 - Clara Inés Castro C.:Coordinadora de gestión logística y convocatoria
